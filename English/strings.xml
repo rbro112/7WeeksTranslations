@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">7 Weeks</string>
+    <string name="action_settings">Settings</string>
+    <string name="dateFormat" translatable="false">M-d-yyyy</string>
+    <string name="datesFixedPrefName" translatable="false">datesFixedIndicator</string>
+    <string name="appInstalledPrefName" translatable="false">appInstalledIndicator</string>
+
+    <string name="donateButton">Donate</string>
+    <string name="emailButton">Shoot Me an Email</string>
+
+    <!-- MISC -->
+    <string name="miscellaneous_delete_capitalized">Delete</string>
+    <string name="miscellaneous_deleted_with_period">deleted.</string>
+    <string name="miscellaneous_day_singular">Day</string>
+    <string name="miscellaneous_days_plural">Days</string>
+    <string name="miscellaneous_days_singular_exclaimed">Day!</string>
+    <string name="miscellaneous_days_plural_exclaimed">Days!</string>
+
+    <!-- All Habits Fragment (Free & Prem) -->
+    <string name="all_habits_empty">You don\'t have any habits!\nAdd one using the plus button below.</string>
+    <string name="all_habits_days_complete">Days Complete:</string>
+    <string name="all_habits_started">Started: </string>
+
+    <!-- Drawer -->
+    <string name="drawer_open" translatable="false">open</string>
+    <string name="drawer_close" translatable="false">close</string>
+    <string name="habits_subtitle">My Habits</string>
+    <string name="drawer_all_habits">All Habits</string>
+    <string name="drawer_new_habit">New Habit</string>
+    <string name="drawer_app_settings">App Settings</string>
+
+    <!-- New Habit Screen -->
+    <string name="new_habit_next1" translatable="false">Next: Pick dates</string>
+    <string name="new_habit_next2" translatable="false">Next: Pick dates</string>
+    <string name="new_habit_finished">Let\'s get started!</string>
+    <string name="new_habit_future_complete_date">You should make or break your new habit by</string>
+    <string name="new_habit_choose_dates_navigation">Choose dates</string>
+    <string name="new_habit_habit_info_navigation">Habit Info</string>
+    <string name="new_habit_set_reminders_navigation">Set Reminders</string>
+    <string name="new_habit_get_started_prompt">Let\'s do it!</string>
+
+    <!-- New Habit Name -->
+    <string name="new_habit_name_prompt">Give this habit/goal a name:</string>
+    <string name="new_habit_name_edittext_hint">Habit Name</string>
+    <string name="new_habit_description_prompt">Give it a description: (Optional)</string>
+    <string name="new_habit_description_edittext_hint">Description</string>
+    <string name="new_habit_reasons_prompt">Reasons for doing this habit/goal: (Optional)</string>
+    <string name="new_habit_reason_edittext1_hint">Reason 1</string>
+    <string name="new_habit_reason_edittext2_hint">Reason 2</string>
+    <string name="new_habit_reason_edittext3_hint">Reason 3</string>
+    <string name="new_habit_add_reason">Add a Reason</string>
+
+    <!-- New Habit Date -->
+    <string name="new_habit_select_a_date_prompt_free">Select a start date</string>
+    <string name="new_habit_select_a_date_hint_free">(Default is today)</string>
+    <string name="new_habit_select_custom_date_button">Select Custom Date</string>
+    <string name="new_habit_date_prompt">Choose a starting date:</string>
+    <string name="new_habit_date_weeks_prompt">How many weeks would you like to go?</string>
+    <string name="new_habit_date_weeks_description">(You can always add more weeks later)</string>
+    <string name="new_habit_date_finished_date_prompt">You should make/break your habit by</string>
+
+    <!-- New Habit Reminder -->
+    <string name="new_habit_reminder_prompt">Set reminders (Optional):</string>
+    <string name="new_habit_reminder_et_hint">Set reminder message (Optional)</string>
+    <string name="new_habit_reminder_empty">You don\'t have any reminders yet!\nAdd some with the plus button below.</string>
+
+    <!-- Single habit -->
+    <string name="single_habit_statistics_title">Statistics</string>
+    <string name="single_habit_reasons_title">Reasons</string>
+    <string name="single_habit_prem_habit_title">Habit</string>
+    <string name="single_habit_prem_reminders_title">Reminders</string>
+
+    <!-- Single habit main -->
+    <string name="single_habit_main_description_button">Add Description</string>
+    <string name="notes_dialog_title">Notes for </string>
+    <string name="notes_dialog_prompt">Notes:</string>
+    <string name="notes_dialog_delete">Delete</string>
+
+    <!-- Single habit stats & info -->
+    <string name="single_habit_stat_info_header">Habit Statistics</string>
+    <string name="single_habit_days_complete">Days Complete:</string>
+    <string name="single_habit_percent_complete">Percent Complete:</string>
+    <string name="single_habit_date_complete">Complete:</string>
+    <string name="single_habit_basic_complete">Complete</string>
+    <string name="single_habit_date_started">Started:</string>
+    <string name="single_habit_current_streak">Current Streak:</string>
+    <string name="single_habit_current_streak_complete">You\'ve completed this habit!</string>
+    <string name="single_habit_completed_weeks">Weeks complete:</string>
+    <string name="single_habit_days_missed">Missed days:</string>
+
+    <!-- Upgrade activity -->
+    <string name="upgrade_activity_payment_amount_prompt">Only one payment of</string>
+    <string name="upgrade_activity_all_this_and_more">All this and more!</string>
+    <string name="upgrade_activity_purchase_button_text">Upgrade to 7 Weeks+ now!</string>
+    <string name="upgrade_activity_discount_prompt">Want 50% off?\nShare on Facebook, Twitter or Google+:</string>
+    <string name="upgrade_activity_discounted_prompt">Thanks for sharing!\n7 Weeks+ is now discounted!</string>
+
+    <string name="upgrade_activity_toast_discount_code_successful">Promo code valid! 7 Weeks+ is now 50% off!</string>
+    <string name="upgrade_activity_toast_incorrect_code_text">Oops! It seems like you have an incorrect code! Try again.</string>
+    <string name="upgrade_activity_toast_thanks_for_sharing">Thanks for sharing! 7 Weeks+ is now half off!</string>
+    <string name="upgrade_activity_toast_free_discount_code_successful">Free upgrade successful!</string>
+
+    <string name="upgrade_header_title">Upgrade to 7 Weeks+</string>
+    <string name="upgrade_header_subtitle">See the features 7 Weeks+ will give you</string>
+
+    <string name="upgrade_error_toast_message">Oops, something went wrong! Please try again.</string>
+
+    <!-- Intros/promos -->
+    <string name="upgrade_fragment_1_title">Take your habits to the next level!</string>
+    <string name="upgrade_fragment_1_footer">Swipe right to see all the features 7 Weeks+ will bring you!</string>
+    <string name="upgrade_fragment_2_title">A refreshed interface</string>
+    <string name="upgrade_fragment_2_footer">Edit your habits directly from the habit list and add notes for each day!</string>
+    <string name="upgrade_fragment_3_title">Home-screen Widgets</string>
+    <string name="upgrade_fragment_3_footer">Medium and large home-screen widgets to check off your habits without entering the app!</string>
+    <string name="upgrade_fragment_4_title">Custom alarms</string>
+    <string name="upgrade_fragment_4_footer">Set unlimited alarms for each habit and add your own message for each!</string>
+    <string name="upgrade_fragment_5_title">15 Beautiful Themes</string>
+    <string name="upgrade_fragment_5_footer">15 Color themes to choose from all optimized for Material Design</string>
+    <string name="upgrade_fragment_6_title">Go beyond 7 Weeks!</string>
+    <string name="upgrade_fragment_6_footer">Make your habits and goal continue past 49 days!</string>
+
+    <string name="upgrade_intro_fragment_1_title">Thanks for being an awesome user!</string>
+    <string name="upgrade_intro_fragment_1_footer">You\'ve been upgraded to 7 Weeks+!\n Swipe right to see your new features!</string>
+    <string name="upgrade_intro_fragment_1_footer_previous_user">Since you\'ve been an awesome user, I\'m giving you 7 Weeks+ for free! Swipe right to see your new features!</string>
+    <string name="upgrade_intro_fragment_6_title">Ready to get started?</string>
+    <string name="upgrade_intro_fragment_6_footer">There\'s even more features waiting! Get started to experience them for yourself</string>
+
+    <!-- Quick action bar -->
+    <string name="qab_completed" translatable="false">Completed</string>
+    <string name="qab_missed" translatable="false">Missed</string>
+    <string name="qab_clear" translatable="false">Clear</string>
+    <string name="qab_notes" translatable="false">Notes</string>
+
+    <!-- Notification -->
+    <string name="notification_free_generic_title_evening">Complete your habits today?</string>
+    <string name="notification_free_generic_message_evening">If you did, check off today!</string>
+    <string name="notification_free_generic_title_morning">You\'re doing great!</string>
+    <string name="notification_free_generic_message_morning">Don\'t give up on those habits! You can do it!</string>
+
+    <string name="notification_prem_default_title">Check up on your habits!</string>
+
+    <string name="alarm_item_custom_message_prompt">Custom Message:</string>
+    <string name="alarm_item_repeat_message_prompt">Repeat:</string>
+
+    <!-- Dialog -->
+    <string name="dialog_reset_title">Reset</string>
+    <string name="dialog_reset_message">Are you sure you want to reset this habit? You\'ll lose all your progress and the start date will be reset to today!</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_im_sure">I\'m sure!</string>
+    <string name="dialog_change">Change</string>
+    <string name="dialog_set">Set</string>
+    <string name="dialog_add">Add</string>
+    <string name="dialog_got_it">Got it</string>
+    <string name="dialog_delete_message">Are you sure you want to delete this habit? All your progress will be lost!</string>
+    <string name="dialog_remove_week_message">Are you sure you want to remove a week? You\'ll lose all your progress for the last week of the habit!</string>
+    <string name="dialog_below_two_weeks">Sorry, you can\'t go below 2 weeks!</string>
+    <string name="dialog_below_two_weeks_alternate">Sorry, you can\'t make or break a habit in only 1 week!</string>
+    <string name="dialog_change_name_prompt">Change name of</string>
+    <string name="dialog_change_name_message">Enter new name:</string>
+    <string name="dialog_remove_week_title">Remove a week?</string>
+    <string name="dialog_promo_code_title">Enter a discount code</string>
+    <string name="dialog_promo_code_prompt">Enter a discount code if you have one:</string>
+
+    <string name="dialog_change_reason_1_title">Change your first reason</string>
+    <string name="dialog_change_reason_2_title">Change your second reason</string>
+    <string name="dialog_change_reason_3_title">Change your third reason</string>
+    <string name="dialog_add_new_reason_short_title">Add a short reason</string>
+    <string name="dialog_enter_new_reason_message">Enter new reason:</string>
+
+    <string name="dialog_too_far_forward_title">You went too far forward!</string>
+    <string name="dialog_too_far_forward_message">The day you entered is past 7 Weeks! That means you\'ve already completed that habit!</string>
+    <string name="dialog_no_name_title">No name!</string>
+    <string name="dialog_no_name_message">You didn\'t enter a name!</string>
+
+    <string name="dialog_alarm_add_message_title">Add message</string>
+    <string name="dialog_alarm_add_message_message">Enter a custom notification message:</string>
+    <string name="dialog_alarm_edit_message_title">Edit message</string>
+    <string name="dialog_alarm_edit_message_message">Enter a custom notification message:</string>
+    <string name="dialog_delete_alarm_title">Are you sure you want to delete this alarm?</string>
+    <string name="dialog_delete_alarm_message">You can always add it again later.</string>
+
+    <string name="dialog_add_description_title">Add description</string>
+    <string name="dialog_add_description_message">Enter description:</string>
+    <string name="dialog_edit_description_title">Edit description</string>
+    <string name="dialog_edit_description_message">Enter new description:</string>
+
+    <!-- About screen -->
+    <string name="about_seven_weeks">Thanks for using 7 Weeks! I work very hard to make it the best habit/goal tracking app on the Play Store. If you have any suggestions or feedback, please feel free to send me an email with the button below! Also, if you love 7 Weeks, share it on Facebook or Google+!\n\n -Ryan Brooks, 7 Weeks developer</string>
+    <string name="about_send_share_prompt">Send me an email or share 7 Weeks:</string>
+    <string name="about_dakoder_thanks">A big thank you to Dakoder for the artwork. His DeviantArt page can be found here:</string>
+
+    <!-- Promo Codes -->
+    <string name="promo_code_thexeffect" translatable="false">thexeffect</string>
+
+    <!-- Sharing -->
+    <string name="share_successful">Thanks for sharing! 7 Weeks+ is now half off!</string>
+
+    <!-- Menu -->
+    <string name="menu_about_seven_weeks">About 7 Weeks</string>
+    <string name="menu_delete_habit">Delete this habit</string>
+    <string name="menu_change_name">Change name</string>
+    <string name="menu_change_description">Change description</string>
+    <string name="menu_reset_habit">Reset habit</string>
+    <string name="menu_discount_code">Have a discount code?</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id" translatable="false">1630327540515215</string>
+
+    <!-- Fontawesome -->
+    <string name="fa_list_icon" translatable="false">&#xf03a;</string>
+    <string name="fa_arrow_right_icon" translatable="false">&#xf061;</string>
+    <string name="fa_arrow_left_icon" translatable="false">&#xf060;</string>
+    <string name="fa_settings_icon" translatable="false">&#xf013;</string>
+    <string name="fa_check_icon" translatable="false">&#xf058;</string>
+    <string name="fa_plus_icon" translatable="false">&#xf055;</string>
+    <string name="fa_plus_icon_alternate" translatable="false">&#xf067;</string>
+    <string name="fa_edit_icon" translatable="false">&#xf040;</string>
+    <string name="fa_caret_down" translatable="false">&#xf0d7;</string>
+    <string name="fa_complete" translatable="false">&#xf091;</string>
+    <string name="fa_twitter" translatable="false">&#xf099;</string>
+    <string name="fa_facebook" translatable="false">&#xf09a;</string>
+    <string name="fa_google_plus" translatable="false">&#xf0d5;</string>
+    <string name="fa_email" translatable="false">&#xf0e0;</string>
+
+    <!-- Widgets -->
+    <string name="widget_completed_text">You\'ve completed this habit!</string>
+    <string name="widget_no_upgrade">Upgrade to 7 Weeks+ to use the widgets!</string>
+
+    <!-- Preferences -->
+    <string name="icon_default" translatable="false">x_overlay</string>
+
+    <string name="custom_icon_key" translatable="false">customIconKey</string>
+    <string name="custom_icon_title" translatable="false">Icon</string>
+
+    <string name="preference_morning_time_summary">Set a time for morning reminder.</string>
+    <string name="preference_morning_title">Morning Reminder Time</string>
+    <string name="preference_morning_checkbox_title">Enable Morning Reminders</string>
+    <string name="preference_morning_checkbox_summary">Allow daily reminders in the morning.</string>
+    <string name="preference_evening_time_summary">Set a time for evening reminder.</string>
+    <string name="preference_evening_title">Evening Reminder Time</string>
+    <string name="preference_evening_checkbox_title">Enable Evening Reminders</string>
+    <string name="preference_evening_checkbox_summary">Allow daily reminders in the evening.</string>
+    
+    <string name="preference_date_format_title">Date Format</string>
+    <string name="preference_date_format_summary">Select the date format to be used.</string>
+    <string name="preference_time_format_title">Alarm Time Format</string>
+    <string name="preference_time_format_summary">Select the time format to be used for alarms.</string>
+    <string name="preference_color_picker_summary">Select the app\'s theme color.</string>
+    <string name="preference_color_picker_title">Color theme</string>
+    <string name="preference_icon_picker_summary">Select the completed day\'s icon.</string>
+    <string name="preference_icon_picker_title">Completed day icon</string>
+    <string name="preference_vibration_summary">Enable vibration feedback when you complete a day.</string>
+    <string name="preference_vibration_title">Completed day vibration</string>
+    <string name="preference_notification_sound_summary">Select a notification sound</string>
+    <string name="preference_notification_sound_title">Notification Sound</string>
+    <string name="preference_notification_wakeup_summary">Wake up screen when reminder appears</string>
+    <string name="preference_notification_wakeup_title">Wake screen</string>
+    
+    
+    <string name="preference_upgrade_summary">Ready to develop your habits even further? Upgrade to 7 Weeks+ now!</string>
+    
+    <string name="preference_category_reminders">Reminders</string>
+    <string name="preference_category_general">General</string>
+    <string name="preference_category_upgrade">Upgrade to 7 Weeks+</string>
+    <string name="preference_category_look_and_feel">Look and Feel</string>
+    <string name="preference_category_notification">Notification settings</string>
+
+    <string name="default_icon_summary">Select an icon</string>
+
+</resources>
