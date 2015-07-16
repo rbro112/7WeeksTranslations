@@ -6,7 +6,7 @@ Please email me before translating!
 I can be reached at [ryan.brooks@7weeksapp.com](mailto:ryan.brooks@7weeksapp.com) and I'll reply to your email as quickly as I can.
 
 ### How to translate
-1. Fork this repository or download the files directly if you are unfamiliar with Git.
+1. Fork this repository or download the files directly if you are unfamiliar with Git. You can download them by pressing the download ZIP button to the right.
 
 2. For all translations, create a new directory. Name this directory the language you are translating the files to.
 
