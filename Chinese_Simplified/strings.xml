@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">7周习惯养成</string>
+    <string name="action_settings">设置</string>
+    <string name="dateFormat" translatable="false">M-d-yyyy</string>
+    <string name="datesFixedPrefName" translatable="false">datesFixedIndicator</string>
+    <string name="appInstalledPrefName" translatable="false">appInstalledIndicator</string>
+
+    <string name="donateButton">捐助</string>
+    <string name="emailButton">联系开发者</string>
+
+    <!-- MISC -->
+    <string name="miscellaneous_delete_capitalized">删除</string>
+    <string name="miscellaneous_deleted_with_period">删除成功</string>
+    <string name="miscellaneous_day_singular">天</string>
+    <string name="miscellaneous_days_plural">天</string>
+    <string name="miscellaneous_days_singular_exclaimed">天！</string>
+    <string name="miscellaneous_days_plural_exclaimed">天！</string>
+
+    <!-- All Habits Fragment (Free & Prem) -->
+    <string name="all_habits_empty">您没有正在养成的习惯，\n用＋按钮来添加一个吧。</string>
+    <string name="all_habits_days_complete">完成天数: </string>
+    <string name="all_habits_started">始于:  </string>
+
+    <!-- Drawer -->
+    <string name="drawer_open" translatable="false">open</string>
+    <string name="drawer_close" translatable="false">close</string>
+    <string name="habits_subtitle">我的习惯</string>
+    <string name="drawer_all_habits">全部习惯</string>
+    <string name="drawer_new_habit">新建习惯</string>
+    <string name="drawer_app_settings">应用设置</string>
+
+    <!-- New Habit Screen -->
+    <string name="new_habit_next1" translatable="false">Next: Pick dates</string>
+    <string name="new_habit_next2" translatable="false">Next: Pick dates</string>
+    <string name="new_habit_finished">开始吧！</string>
+    <string name="new_habit_future_complete_date">到了这天，您就能养成或放弃这个习惯了</string>
+    <string name="new_habit_choose_dates_navigation">选择日期</string>
+    <string name="new_habit_habit_info_navigation">习惯信息</string>
+    <string name="new_habit_set_reminders_navigation">设置提醒</string>
+    <string name="new_habit_get_started_prompt">开始吧！</string>
+
+    <!-- New Habit Name -->
+    <string name="new_habit_name_prompt">命名习惯: </string>
+    <string name="new_habit_name_edittext_hint">习惯名称: </string>
+    <string name="new_habit_description_prompt">描述习惯: (可选)</string>
+    <string name="new_habit_description_edittext_hint">描述</string>
+    <string name="new_habit_reasons_prompt">养成理由: (可选)</string>
+    <string name="new_habit_reason_edittext1_hint">理由 1</string>
+    <string name="new_habit_reason_edittext2_hint">理由 2</string>
+    <string name="new_habit_reason_edittext3_hint">理由 3</string>
+    <string name="new_habit_add_reason">添加理由</string>
+
+    <!-- New Habit Date -->
+    <string name="new_habit_select_a_date_prompt_free">选择开始日期</string>
+    <string name="new_habit_select_a_date_hint_free">(默认日期是今天)</string>
+    <string name="new_habit_select_custom_date_button">自定义日期</string>
+    <string name="new_habit_date_prompt">选择开始日期: </string>
+    <string name="new_habit_date_weeks_prompt">您想做几周的记录？</string>
+    <string name="new_habit_date_weeks_description">(您可以自由添加周数)</string>
+    <string name="new_habit_date_finished_date_prompt">到了这天，您就能养成或应该放弃这个习惯了</string>
+
+    <!-- New Habit Reminder -->
+    <string name="new_habit_reminder_prompt">设置提醒 (可选): </string>
+    <string name="new_habit_reminder_et_hint">设置提示信息 (可选)</string>
+    <string name="new_habit_reminder_empty">您没有设置任何提示，\n用＋按钮来添加一个吧。</string>
+
+    <!-- Single habit -->
+    <string name="single_habit_statistics_title">状态</string>
+    <string name="single_habit_reasons_title">理由</string>
+    <string name="single_habit_prem_habit_title">习惯</string>
+    <string name="single_habit_prem_reminders_title">提示</string>
+
+    <!-- Single habit main -->
+    <string name="single_habit_main_description_button">增加描述</string>
+    <string name="notes_dialog_title"> 的注释</string>
+    <string name="notes_dialog_prompt">注释</string>
+    <string name="notes_dialog_delete">删除</string>
+
+    <!-- Single habit stats & info -->
+    <string name="single_habit_stat_info_header">习惯状态</string>
+    <string name="single_habit_days_complete">完成天数:</string>
+    <string name="single_habit_percent_complete">完成百分比:</string>
+    <string name="single_habit_date_complete">完成:</string>
+    <string name="single_habit_basic_complete">完成</string>
+    <string name="single_habit_date_started">始于:</string>
+    <string name="single_habit_current_streak">目前连续完成天数:</string>
+    <string name="single_habit_current_streak_complete">您已经养成了这个习惯！</string>
+    <string name="single_habit_completed_weeks">完成周数:</string>
+    <string name="single_habit_days_missed">错过天数:</string>
+
+    <!-- Upgrade activity -->
+    <string name="upgrade_activity_payment_amount_prompt">仅需支付</string>
+    <string name="upgrade_activity_all_this_and_more">不仅如此！</string>
+    <string name="upgrade_activity_purchase_button_text">现在升级为7周习惯养成+吧！</string>
+    <string name="upgrade_activity_discount_prompt">如果在Facebook, Twitter或Google+分享\n您可获五折优惠:</string>
+    <string name="upgrade_activity_discounted_prompt">感谢分享\n7周习惯养成+现在已经是折扣价了！</string>
+
+    <string name="upgrade_activity_toast_discount_code_successful">优惠代码有效，7周习惯养成+现在只需半价了。</string>
+    <string name="upgrade_activity_toast_incorrect_code_text">优惠代码有误，请重试。</string>
+    <string name="upgrade_activity_toast_thanks_for_sharing">感谢分享，\n7周习惯养成现在只需半价了。</string>
+    <string name="upgrade_activity_toast_free_discount_code_successful">免费升级成功</string>
+
+    <string name="upgrade_header_title">升级到7周习惯养成+</string>
+    <string name="upgrade_header_subtitle">查看7周习惯养成+的新功能</string>
+
+    <string name="upgrade_error_toast_message">发生错误，请重试。</string>
+
+    <!-- Intros/promos -->
+    <string name="upgrade_fragment_1_title">让习惯更进一步</string>
+    <string name="upgrade_fragment_1_footer">向右滑动来查看7周习惯养成+的所有功能</string>
+    <string name="upgrade_fragment_2_title">全新界面</string>
+    <string name="upgrade_fragment_2_footer">从习惯列表中修改习惯并添加笔记</string>
+    <string name="upgrade_fragment_3_title">主屏幕小部件</string>
+    <string name="upgrade_fragment_3_footer">用不同尺寸的主屏幕小部件来记录习惯</string>
+    <string name="upgrade_fragment_4_title">自定义闹铃</string>
+    <string name="upgrade_fragment_4_footer">为习惯设置闹铃并添加备注</string>
+    <string name="upgrade_fragment_5_title">15个主题</string>
+    <string name="upgrade_fragment_5_footer">15种适配质感设计的颜色</string>
+    <string name="upgrade_fragment_6_title">永不止步</string>
+    <string name="upgrade_fragment_6_footer">记录7周养成期过后的状态</string>
+
+    <string name="upgrade_intro_fragment_1_title">感谢支持！</string>
+    <string name="upgrade_intro_fragment_1_footer">您已经升级为7周习惯养成+，\n请向右滑动来查看新功能。</string>
+    <string name="upgrade_intro_fragment_1_footer_previous_user">因为您是老用户，您已经免费升级为7周习惯养成+，请向右滑动来查看新功能。</string>
+    <string name="upgrade_intro_fragment_6_title">准备好了吗？</string>
+    <string name="upgrade_intro_fragment_6_footer">更多新功能待您探索</string>
+
+    <!-- Quick action bar -->
+    <string name="qab_completed" translatable="false">Completed</string>
+    <string name="qab_missed" translatable="false">Missed</string>
+    <string name="qab_clear" translatable="false">Clear</string>
+    <string name="qab_notes" translatable="false">Notes</string>
+
+    <!-- Notification -->
+    <string name="notification_free_generic_title_evening">您践行习惯了吗？</string>
+    <string name="notification_free_generic_message_evening">如果有的话，记录下来吧！</string>
+    <string name="notification_free_generic_title_morning">习惯养成需要持之以恒的努力</string>
+    <string name="notification_free_generic_message_morning">请不要放弃！</string>
+
+    <string name="notification_prem_default_title">查看习惯</string>
+
+    <string name="alarm_item_custom_message_prompt">自定义信息：</string>
+    <string name="alarm_item_repeat_message_prompt">重复：</string>
+
+    <!-- Dialog -->
+    <string name="dialog_reset_title">重置</string>
+    <string name="dialog_reset_message">确定要重置这个习惯吗？您会失去所有的进度且开始日期会重设为今天。</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_im_sure">确定</string>
+    <string name="dialog_change">更改</string>
+    <string name="dialog_set">设定</string>
+    <string name="dialog_add">添加</string>
+    <string name="dialog_got_it">明白了</string>
+    <string name="dialog_delete_message">确定要删除这个习惯吗？您会失去所有进度！</string>
+    <string name="dialog_remove_week_message">确定要删除一周吗？您会失去习惯的最后一周的所有进度！</string>
+    <string name="dialog_below_two_weeks">抱歉，至少要记录两周。</string>
+    <string name="dialog_below_two_weeks_alternate">抱歉，您不可能在一周内养成习惯。</string>
+    <string name="dialog_change_name_prompt">更改 名字</string>
+    <string name="dialog_change_name_message">输入新名字：</string>
+    <string name="dialog_remove_week_title">要删除一周吗？</string>
+    <string name="dialog_promo_code_title">输入优惠代码：</string>
+    <string name="dialog_promo_code_prompt">如果您有优惠代码，请输入：</string>
+
+    <string name="dialog_change_reason_1_title">更改原因一</string>
+    <string name="dialog_change_reason_2_title">更改原因二</string>
+    <string name="dialog_change_reason_3_title">更改原因三</string>
+    <string name="dialog_add_new_reason_short_title">添加简短原因</string>
+    <string name="dialog_enter_new_reason_message">输入新原因：</string>
+
+    <string name="dialog_too_far_forward_title">输入错误</string>
+    <string name="dialog_too_far_forward_message">您输入的日期已经是7周以后了，这说明您已经养成了这个习惯。</string>
+    <string name="dialog_no_name_title">没有名字</string>
+    <string name="dialog_no_name_message">您需要为习惯命名</string>
+
+    <string name="dialog_alarm_add_message_title">自定义通知信息：</string>
+    <string name="dialog_alarm_add_message_message">输入通知信息：</string>
+    <string name="dialog_alarm_edit_message_title">更改通知信息</string>
+    <string name="dialog_alarm_edit_message_message">输入通知信息：</string>
+    <string name="dialog_delete_alarm_title">确定要删除这个闹铃吗？</string>
+    <string name="dialog_delete_alarm_message">您可以重新添加闹铃。</string>
+
+    <string name="dialog_add_description_title">添加描述</string>
+    <string name="dialog_add_description_message">输入描述：</string>
+    <string name="dialog_edit_description_title">修改描述</string>
+    <string name="dialog_edit_description_message">输入新描述：</string>
+
+    <!-- About screen -->
+    <string name="about_seven_weeks">感谢使用7周习惯养成！我致力于使7周习惯养成成为应用市场上最好的习惯养成/目标设定应用。 如果您有任何建议或意见，请使用下面的按钮给我发送邮件。如果您喜欢7周习惯养成，请在社交网络上分享这个应用！\n\n - 7周习惯养成开发者 Ryan Brooks</string>
+    <string name="about_send_share_prompt">给我发送邮件或分享7周习惯养成：</string>
+    <string name="about_dakoder_thanks">鸣谢：Dakoder为7天习惯养成创作了封面图。这是他的DeviantArt主页：</string>
+
+    <!-- Promo Codes -->
+    <string name="promo_code_thexeffect" translatable="false">thexeffect</string>
+
+    <!-- Sharing -->
+    <string name="share_successful">感谢分享！7周习惯养成现在只需半价！</string>
+
+    <!-- Menu -->
+    <string name="menu_about_seven_weeks">关于7周习惯养成</string>
+    <string name="menu_delete_habit">删除这个习惯</string>
+    <string name="menu_change_name">更改名字</string>
+    <string name="menu_change_description">更改描述</string>
+    <string name="menu_reset_habit">重置习惯</string>
+    <string name="menu_discount_code">持有优惠代码吗？</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id" translatable="false">1630327540515215</string>
+
+    <!-- Fontawesome -->
+    <string name="fa_list_icon" translatable="false">&#xf03a;</string>
+    <string name="fa_arrow_right_icon" translatable="false">&#xf061;</string>
+    <string name="fa_arrow_left_icon" translatable="false">&#xf060;</string>
+    <string name="fa_settings_icon" translatable="false">&#xf013;</string>
+    <string name="fa_check_icon" translatable="false">&#xf058;</string>
+    <string name="fa_plus_icon" translatable="false">&#xf055;</string>
+    <string name="fa_plus_icon_alternate" translatable="false">&#xf067;</string>
+    <string name="fa_edit_icon" translatable="false">&#xf040;</string>
+    <string name="fa_caret_down" translatable="false">&#xf0d7;</string>
+    <string name="fa_complete" translatable="false">&#xf091;</string>
+    <string name="fa_twitter" translatable="false">&#xf099;</string>
+    <string name="fa_facebook" translatable="false">&#xf09a;</string>
+    <string name="fa_google_plus" translatable="false">&#xf0d5;</string>
+    <string name="fa_email" translatable="false">&#xf0e0;</string>
+
+    <!-- Widgets -->
+    <string name="widget_completed_text">您已经完成这个习惯！</string>
+    <string name="widget_no_upgrade">升级到7周习惯养成+以使用小部件！</string>
+
+    <!-- Preferences -->
+    <string name="icon_default" translatable="false">x_overlay</string>
+
+    <string name="custom_icon_key" translatable="false">customIconKey</string>
+    <string name="custom_icon_title" translatable="false">Icon</string>
+
+    <string name="preference_morning_time_summary">设置早晨提示时间：</string>
+    <string name="preference_morning_title">早晨提示时间</string>
+    <string name="preference_morning_checkbox_title">开启早晨提示</string>
+    <string name="preference_morning_checkbox_summary">您每天早上都将获得习惯提示。</string>
+    <string name="preference_evening_time_summary">设置夜晚提示时间：</string>
+    <string name="preference_evening_title">夜晚提示时间：</string>
+    <string name="preference_evening_checkbox_title">开启夜晚提示</string>
+    <string name="preference_evening_checkbox_summary">您每天晚上都将获得习惯记录提示。</string>
+    
+    <string name="preference_date_format_title">日期格式</string>
+    <string name="preference_date_format_summary">选择日期显示格式。</string>
+    <string name="preference_time_format_title">闹铃时间格式</string>
+    <string name="preference_time_format_summary">选择12小时制或24小时制。</string>
+    <string name="preference_color_picker_summary">设置主题颜色。</string>
+    <string name="preference_color_picker_title">主题</string>
+    <string name="preference_icon_picker_summary">设置完成目标后显示的图标。</string>
+    <string name="preference_icon_picker_title">完成图标</string>
+    <string name="preference_vibration_summary">度过一天后，您将会收到震动提示。</string>
+    <string name="preference_vibration_title">完成时震动提示</string>
+    <string name="preference_notification_sound_summary">选择通知音。</string>
+    <string name="preference_notification_sound_title">通知音</string>
+    <string name="preference_notification_wakeup_summary">提醒到来时，屏幕会被唤醒。</string>
+    <string name="preference_notification_wakeup_title">唤醒屏幕</string>
+    
+    
+    <string name="preference_upgrade_summary">准备好让您的习惯更进一步了吗？现在升级为7周习惯养成+！</string>
+    
+    <string name="preference_category_reminders">提醒</string>
+    <string name="preference_category_general">通用</string>
+    <string name="preference_category_upgrade">升级为7周习惯养成+</string>
+    <string name="preference_category_look_and_feel">外观</string>
+    <string name="preference_category_notification">通知设置</string>
+
+    <string name="default_icon_summary">选择图标</string>
+
+</resources>
